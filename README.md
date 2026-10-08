@@ -1,2 +1,2 @@
-# Meu repositório
-## Este espaço foi criado para reunir os projetos e exercícios feitos por mim no GitHub durante meu processo de aprendizado em programação.
+# Olá, sou a Maria, e sejam todos BEM VINDOS ao meu repositório 
+# Foi criado para colocar meus trabalhos do meu curso.
